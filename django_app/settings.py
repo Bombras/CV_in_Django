@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-gsf!%%+kabiij^v2&ms-o6)b=f^tss2@=j3aej4k^fzoorjh)8
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['smardatomas.azurewebsites.net', "127.0.0.1"]
+ALLOWED_HOSTS = ["smardatomas.azurewebsites.net", "127.0.0.1"]
 
 
 # Application definition
